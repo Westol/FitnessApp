@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FitnesAppCurse</string>
+    <string name="slogan">Создавая идеальное тело</string>
+    <string name="day">День:</string>
+    <string name="days">Дни тренировки</string>
+    <string name="exercise">Упражнений</string>
+    <string name="exercises">Упражнения</string>
+    <string name="waiting_message">Упражнения начнутся через:</string>
+    <string name="start">Начать</string>
+    <string name="next">Дальше</string>
+    <string name="done">Готово</string>
+    <string name="waiting">Приготовьтесь</string>
+    <string name="finish">Поздравляем, Вы закончили дневную тренировку!</string>
+    <string name="rest">Осталось</string>
+    <string name="rest_days">дней</string>
+    <string name="reset">Сбросить</string>
+    <string name="alert">Внимание</string>
+    <string name="back">Отмена</string>
+    <string name="reset_days_message">Вы действительно хотите сбросить все дни тренировок?</string>
+    <string name="reset_day_message">Хотите сбросить этот день и повторить упражнения?</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>Прыжки упор лежа|x10|Jumps.gif</item> <!-- 0 -->
+        <item>Руки и ноги упор лежа|x10|Legs.gif</item> <!-- 1 -->
+        <item>Ноги упор лежа|x10|Legs_2.gif</item> <!-- 2 -->
+        <item>Пресс упор лежа|x10|Legs_3.gif</item> <!-- 3 -->
+        <item>Поднятие ног упор лежа|x10|Legs_4.gif</item> <!-- 4 -->
+        <item>Перекатывания лежа|x10|On_floor.gif</item> <!-- 5 -->
+        <item>Выпады|x10|Steps.gif</item> <!-- 6 -->
+        <item>Поднятие ног|x10|Steps_2.gif</item> <!-- 7 -->
+        <item>Велосипед лежа|x10|Velo.gif</item> <!-- 8 -->
+    </string-array>
+    <string-array name="day_exercises">
+        <item>0,1,2,3,4</item> <!-- Day 1 -->
+        <item>5,6,7,8,0</item> <!-- Day 2 -->
+        <item>0,1,2,3,4</item> <!-- Day 3 -->
+        <item>5,6,7,8,0</item> <!-- Day 4 -->
+        <item>0,1,2,3,4</item> <!-- Day 5 -->
+        <item>5,6,7,8,0</item> <!-- Day 6 -->
+        <item>0,1,2,3,4</item> <!-- Day 7 -->
+    </string-array>
+</resources>
